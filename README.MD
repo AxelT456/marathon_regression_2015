@@ -84,4 +84,4 @@ Comparación de dos arquitecturas bajo esquema de validación **Hold-out (70/30)
 
 **Axel Tapia**
 - Estudiante de Ingeniería en Ciencias de la Computación
-- Benemérita Universidad Autónoma de Puebla (BUAP)
+- Benemérita Universidad Autónoma de Puebla (BUAP) s
